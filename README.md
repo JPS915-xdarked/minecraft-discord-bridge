@@ -21,5 +21,5 @@ Open the index.js file and change stuff you want to change *eg email, server ip,
 
 Now cd into that folder and type **'node index.js'** to start the bot.
  
-#help 
+# help 
 if you need help dm me on discord **JPS915#3533**
