@@ -17,7 +17,7 @@ Type **'npm install mineflayer'**.
 Type **'npm install codys-bridge-helper'** .
 
 # how to start the bot
-Open the index.js file and change stuff you want to change *eg email, server ip, version.*  and save it.
+Open the index.js file and change logins *eg email, server ip, version, discord bot token, channel id for server. * and save it.
 
 Now cd into that folder and type **'node index.js'** to start the bot.
  
