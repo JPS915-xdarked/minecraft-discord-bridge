@@ -3,7 +3,7 @@ This is a basic chat bridge for mineflayer and discord.
 
 **made by xdarked aka - JPS915**
 
-Dade with mineflayer and discord.js@12.5.3.
+*made with discord.js@12.5.3, mineflayer and codys-bridge-helper plugin*
 
 
 # how to install
