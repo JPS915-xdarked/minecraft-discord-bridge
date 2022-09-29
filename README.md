@@ -9,7 +9,7 @@ This is a basic chat bridge for mineflayer and discord.
 # how to install
 Install nodejs
 
-Download the **index.js** file and cd into that folder with terminal 
+Download the **index.js** file and cd into that folder with terminal.
 
 Type **'npm init'** and spam enter. 
 Type **'npm install discord.js@12.5.3'**. 
